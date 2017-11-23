@@ -3,6 +3,6 @@ este es otra edicion en mi pc
 
 Este es un cambio
 
-Este es un cambio en el servidor
+Este es un cambio en el servid0r
 
 
